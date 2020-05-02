@@ -4,7 +4,7 @@
 > Project for Advanced Web Development (Elective 1). \
 
 
-#Contributors <br/>
+# Contributors
 Abarca, Nikki <br/>
 Gerodias, Mariella <br/>
 Gonzales, Denielle <br/>
